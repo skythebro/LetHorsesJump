@@ -34,7 +34,7 @@ Features:
 * Install BepInEx
 * Install Bloodstone
 * (optional) Install VampireCommandFramework
-* Extract [LetHorsesJump.dll]() into (VRising server folder)/BepInEx/plugins
+* Extract [LetHorsesJump.dll](https://github.com/skythebro/LetHorsesJump/releases/tag/0.1.0) into (VRising server folder)/BepInEx/plugins
 
 ## There is no config yet, but I will add one soon for customization purposes.
 
